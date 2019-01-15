@@ -1,8 +1,8 @@
-import Vue from 'vue'
-import App from './App.vue'
+import Vue from 'vue';
 
-Vue.config.productionTip = false
+import wrap from '@vue/web-component-wrapper';
+import Compass from './components/Compass';
 
-new Vue({
-  render: h => h(App),
-}).$mount('#app')
+const CustomElement = wrap(Vue, Compass);
+
+window.customElements.define('compass-view', CustomElement);
