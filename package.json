@@ -8,6 +8,10 @@
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rasifix/compass-web-component.git"
+  },
   "dependencies": {
     "vue": "^2.5.21"
   },
