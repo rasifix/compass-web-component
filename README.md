@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/rasifix/compass-web-component.svg?branch=master)](https://travis-ci.com/rasifix/compass-web-component)
+
 # compass-web-component
 Interactive compass logo as a webcomponent.
 
