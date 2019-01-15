@@ -12,6 +12,9 @@
     "type": "git",
     "url": "https://github.com/rasifix/compass-web-component.git"
   },
+  "keywords": [
+    "orienteering"
+  ],
   "dependencies": {
     "vue": "^2.5.21"
   },
