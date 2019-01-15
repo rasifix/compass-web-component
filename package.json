@@ -1,7 +1,8 @@
 {
-  "name": "compass-web-component",
+  "name": "@rasifix/compass-view",
   "version": "0.1.0",
-  "private": true,
+  "author": "Simon Raess <raess.simon@gmail.com>",
+  "license": "Apache-2.0",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
