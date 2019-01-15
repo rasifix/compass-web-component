@@ -15,6 +15,11 @@ Interactive compass logo as a webcomponent.
 npm install
 ```
 
+## Build Web Component
+```
+vue build --target wc --name compass-view ./src/components/Compass.vue
+```
+
 ### Compiles and hot-reloads for development
 ```
 npm run serve
